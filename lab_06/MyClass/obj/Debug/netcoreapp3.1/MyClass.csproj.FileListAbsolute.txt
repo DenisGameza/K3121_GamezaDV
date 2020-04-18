@@ -1,0 +1,11 @@
+C:\Users\NeoNe\Desktop\lab06\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\NeoNe\Desktop\lab06\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\NeoNe\Desktop\lab06\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\NeoNe\Desktop\lab06\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\NeoNe\Desktop\lab06\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\NeoNe\Desktop\lab06\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\NeoNe\Desktop\lab06\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\NeoNe\Desktop\lab06\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\NeoNe\Desktop\lab06\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\NeoNe\Desktop\lab06\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\NeoNe\Desktop\lab06\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
