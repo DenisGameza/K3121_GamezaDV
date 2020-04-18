@@ -1,0 +1,11 @@
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\bin\Debug\netcoreapp3.1\Progressions.exe
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\bin\Debug\netcoreapp3.1\Progressions.deps.json
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\bin\Debug\netcoreapp3.1\Progressions.runtimeconfig.json
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\bin\Debug\netcoreapp3.1\Progressions.runtimeconfig.dev.json
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\bin\Debug\netcoreapp3.1\Progressions.dll
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\bin\Debug\netcoreapp3.1\Progressions.pdb
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\obj\Debug\netcoreapp3.1\Progressions.csprojAssemblyReference.cache
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\obj\Debug\netcoreapp3.1\Progressions.AssemblyInfoInputs.cache
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\obj\Debug\netcoreapp3.1\Progressions.AssemblyInfo.cs
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\obj\Debug\netcoreapp3.1\Progressions.dll
+C:\Users\NeoNe\Desktop\Технологии\lab07\Progressions\obj\Debug\netcoreapp3.1\Progressions.pdb
