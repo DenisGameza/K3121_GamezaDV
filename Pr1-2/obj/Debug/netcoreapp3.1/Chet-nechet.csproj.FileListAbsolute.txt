@@ -1,0 +1,11 @@
+C:\Users\NeoNe\Desktop\Chet-nechet\bin\Debug\netcoreapp3.1\Chet-nechet.exe
+C:\Users\NeoNe\Desktop\Chet-nechet\bin\Debug\netcoreapp3.1\Chet-nechet.deps.json
+C:\Users\NeoNe\Desktop\Chet-nechet\bin\Debug\netcoreapp3.1\Chet-nechet.runtimeconfig.json
+C:\Users\NeoNe\Desktop\Chet-nechet\bin\Debug\netcoreapp3.1\Chet-nechet.runtimeconfig.dev.json
+C:\Users\NeoNe\Desktop\Chet-nechet\bin\Debug\netcoreapp3.1\Chet-nechet.dll
+C:\Users\NeoNe\Desktop\Chet-nechet\bin\Debug\netcoreapp3.1\Chet-nechet.pdb
+C:\Users\NeoNe\Desktop\Chet-nechet\obj\Debug\netcoreapp3.1\Chet-nechet.csprojAssemblyReference.cache
+C:\Users\NeoNe\Desktop\Chet-nechet\obj\Debug\netcoreapp3.1\Chet-nechet.AssemblyInfoInputs.cache
+C:\Users\NeoNe\Desktop\Chet-nechet\obj\Debug\netcoreapp3.1\Chet-nechet.AssemblyInfo.cs
+C:\Users\NeoNe\Desktop\Chet-nechet\obj\Debug\netcoreapp3.1\Chet-nechet.dll
+C:\Users\NeoNe\Desktop\Chet-nechet\obj\Debug\netcoreapp3.1\Chet-nechet.pdb
