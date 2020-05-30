@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FinalHW/1.0.0": {
+        "dependencies": {
+          "HWBibl": "1.0.0"
+        },
+        "runtime": {
+          "FinalHW.dll": {}
+        }
+      },
+      "HWBibl/1.0.0": {
+        "runtime": {
+          "HWBibl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalHW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HWBibl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
